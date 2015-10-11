@@ -1,4 +1,6 @@
-# React Mocha testing
+# React Mocha testing using shallow rendering and skin-deep
+
+Blog post (LINK)
 
 ### Run tests
 1. git clone
